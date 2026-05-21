@@ -1,24 +1,15 @@
 # gEvE — gCloud Evolutionary Virtual Expert
 
-**The ultimate self-learning Xbox Cloud Gaming optimizer for Logitech G Cloud.**
+**Your Logitech G Cloud's self-evolving AI Xbox Cloud Optimizer**
 
-gEvE learns *your* specific G Cloud hardware, thermal behavior, Wi-Fi patterns, and evolves her recommendations over time.
+Built for Matt with ruthless precision.
 
 ## Features
-- Real-time network diagnostics & Cloud Score
+- Real-time network diagnostics
+- Cloud Score
+- Shizuku Power Mode
+- gEvE AI (local + Grok)
+- Self-learning over sessions
 - One-tap Optimize & Launch Xbox Cloud
-- Safe cleanup + Shizuku God Mode Power
-- Self-evolving gEvE AI Coach (local + Grok)
-- Live session monitoring
-- Session history & Device Profile learning
 
-Built ruthlessly for Matt.
-
-## Quick Start
-1. Clone repo
-2. Open in Android Studio
-3. Enable USB Debugging on G Cloud
-4. Install Shizuku
-5. Build & run
-
-GitHub Actions builds APK automatically on every push.
+GitHub Actions ready. Clone and build.
