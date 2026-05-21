@@ -145,7 +145,7 @@ eval "set -- $(
         printf '%s\n' "$DEFAULT_JVM_OPTS" |
         xargs -0 |
         tr '\n' ' '
-    ) \"\$@\""
+    ) \"$@\""
 
 # Escape application args
 save () {
@@ -186,6 +186,6 @@ eval "set -- $(
         printf '%s\n' "$DEFAULT_JVM_OPTS" |
         xargs -0 |
         tr '\n' ' '
-    ) \"\$@\""
+    ) \"$@\""
 
 exec "$JAVACMD" "$@"
