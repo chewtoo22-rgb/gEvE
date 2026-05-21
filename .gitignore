@@ -1,0 +1,6 @@
+*.apk
+*.jks
+.gradle/
+.idea/
+build/
+captures/
